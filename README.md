@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- Profile README for divyanshi2203 -->
 
-<!--
-**divyanshi2203/divyanshi2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Divyanshi 👋</h1>
+<h3 align="center">Backend Developer | Python • Flask • Django • REST APIs</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/divyanshi2203">
+    <img src="https://komarev.com/ghpvc/?username=divyanshi2203&label=Profile%20views&color=ff4d88&style=flat" alt="profile views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 👩‍💻 About Me
+- 🚀 I build backend systems using **Python**, **Flask**, and **Django**
+- 🔐 Comfortable with **Authentication** (JWT/session-based)
+- 🧩 I enjoy designing clean **REST APIs** and working with databases
+- 🛠️ Tools I use: **Postman**, SQL tooling, API testing workflows
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+- **Python**, **Flask**, **Django**
+- **Flask-RESTful**, REST API design
+
+### Database
+- **SQLAlchemy**, **SQL**
+- (SQLite / PostgreSQL friendly workflows)
+
+### API & Tools
+- **Postman**
+- Authentication (JWT / sessions), request validation, error handling
+
+### Frontend (Basic)
+- **JavaScript (Basics)**
+
+---
+
+## 📌 What I’m Working On
+- Building backend projects with clean architecture
+- Improving API security, auth flows, and database design
+- Writing better documentation and tests
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=divyanshi2203&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshi2203&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🧠 Core Skills
+- REST APIs • CRUD • Authentication
+- Flask / Django development
+- SQLAlchemy ORM + SQL queries
+- API testing with Postman
+
+---
+
+## 🤝 Connect
+- GitHub: https://github.com/divyanshi2203
+
+<!-- Optional: Add LinkedIn later
+- LinkedIn: https://www.linkedin.com/in/your-link
 -->
