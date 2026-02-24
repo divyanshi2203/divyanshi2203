@@ -45,14 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=divyanshi2203&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshi2203&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🧠 Core Skills
 - REST APIs • CRUD • Authentication
 - Flask / Django development
@@ -63,6 +55,8 @@
 
 ## 🤝 Connect
 - GitHub: https://github.com/divyanshi2203
+- LinkedIn: https://www.linkedin.com/in/divyanshi-saini-577108259
+- Email: divyanshisaini22@gmail.com
 
 <!-- Optional: Add LinkedIn later
 - LinkedIn: https://www.linkedin.com/in/your-link
