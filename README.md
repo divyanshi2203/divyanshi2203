@@ -1,7 +1,7 @@
 <!-- Profile README for divyanshi2203 -->
 
 <h1 align="center">Hi, I'm Divyanshi 👋</h1>
-<h3 align="center">Backend Developer | Python • Flask • Django • REST APIs</h3>
+<h3 align="center">Backend Developer | Python • Flask • Django • REST APIs • SQL</h3>
 
 <p align="center">
   <a href="https://github.com/divyanshi2203">
