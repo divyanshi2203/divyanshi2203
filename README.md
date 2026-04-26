@@ -1,6 +1,6 @@
 <!-- Profile README for divyanshi2203 -->
 
-<h1 align="center">Hii, I'm Divyanshi 👋</h1>
+<h1 align="center">Hi, I'm Divyanshi 👋</h1>
 <h3 align="center">Backend Developer | Python • Flask • Django • REST APIs • SQL</h3>
 
 <p align="center">
